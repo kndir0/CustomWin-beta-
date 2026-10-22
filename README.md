@@ -7,7 +7,7 @@
 
 A modern Windows customization utility with PySide6 GUI, automatic dependency installation, and system tweaking capabilities.
 
-## ✨ Features
+## Features
 - **Smart Installer**: Auto-detects system architecture and installs Python if needed
 - **Modern GUI**: Frameless PySide6 interface designed in Qt Designer
 - **Multi-Version Support**: Separate optimized versions for Windows 11 and legacy systems
@@ -15,7 +15,7 @@ A modern Windows customization utility with PySide6 GUI, automatic dependency in
 - **Font Management**: Custom font packages for UI enhancement
 - **Quick Launch**: Desktop shortcuts for easy access
 
-## 🚀 Quick Start (Windows Only)
+## Quick Start (Windows Only)
 1. Download the repository
 2. Run `install.bat` as **Administrator**
 3. Follow the on-screen instructions:
@@ -23,7 +23,7 @@ A modern Windows customization utility with PySide6 GUI, automatic dependency in
    - Choose your Windows version
 4. Use the desktop shortcuts to launch the application
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 customwin/
@@ -43,7 +43,7 @@ customwin/
 └── README.md              # This documentation
 ```
 
-## 🛠️ For Developers
+## For Developers
 
 ### Project Architecture
 This project demonstrates:
@@ -65,14 +65,14 @@ The included `Asset/A1.reg` file serves as a **safe test case** to verify:
 - Administrator privilege requirements
 - Modular architecture for future tweaks
 
-## 📝 Development Notes
+## Development Notes
 - **Created**: 2024
 - **Original Platform**: Windows
 - **Current Status**: Archived (project owner transitioned to Linux)
 - **Potential**: Can be extended with additional system tweaks and UI enhancements
 
-## 👨‍💻 Author
-**sendisdewey** - Initial development and architecture design
+## Author
+**kndir0** - Initial development and architecture design
 
 ---
 
